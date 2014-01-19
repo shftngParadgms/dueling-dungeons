@@ -45,8 +45,8 @@ MonoBehaviour:
   - {fileID: 21300024, guid: 3134e43efc4e2427683f89ed042823e2, type: 3}
   playerNum: 0
   spriteSelected: 0
-  readyText: {fileID: 13200000, guid: def525c155d944e63a90f17bee3df3cd, type: 2}
-  sideText: {fileID: 13200000, guid: e033d90fc01b247d9819ae16def11732, type: 2}
+  readyText: {fileID: 13200000, guid: d6c899db2c09b441c988e2b4777da058, type: 2}
+  sideText: {fileID: 13200000, guid: 178a69af732a14edfb351c176581a5b9, type: 2}
 --- !u!212 &21200000
 SpriteRenderer:
   m_ObjectHideFlags: 1
